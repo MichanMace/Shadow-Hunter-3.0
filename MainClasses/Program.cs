@@ -25,10 +25,10 @@ namespace ShadowHunter
             //new CommandHandler();
 
             //**********SHADOW HUNTER TOKEN**********\\
-            await _client.LoginAsync(TokenType.Bot, "MzEzNzQ2NDUwMzQ3NTg5NjYy.C_unbg.ZLqY4g62oQYeagCSJjLXnGkKq-A");
+            await _client.LoginAsync(TokenType.Bot, "Shadow Hunter Token Here");
 
             //**********LATIBOT TOKEN**********\\
-            //await _client.LoginAsync(TokenType.Bot, "MzI2NTE1MTgzNjA4NjU5OTcw.XY7Otg.1en-wo7pUtNHLDYq22d0xzMLvjk");
+            //await _client.LoginAsync(TokenType.Bot, "Test Bot Token Here");
 
             await _client.StartAsync();
 
